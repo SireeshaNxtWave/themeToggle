@@ -1,0 +1,52 @@
+/* Write your CSS here */
+.light-theme-navbar-section {
+  background-color: #ffffff;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-family: roboto;
+  width: 100%;
+}
+.website-logo {
+  height: 60px;
+  width: 60px;
+}
+.theme-btn {
+  background-color: transparent;
+  border: 0px;
+  height: 20px;
+  width: 20px;
+  margin-left: 0px;
+}
+.link-list-container {
+  display: flex;
+  flex-direction: row;
+}
+.list-item {
+  list-style: none;
+  font-size: 25px;
+  font-weight: bold;
+  margin: 10px;
+}
+.link-item {
+  text-decoration: none;
+}
+.light-theme-font-color {
+  color: #1e293b;
+}
+.dark-theme-navbar-section {
+  background-color: #333333;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-family: roboto;
+  width: 100%;
+}
+.dark-theme-font-color {
+  color: #dcdcdc;
+}
+.line-color {
+  color: #1e293b;
+}

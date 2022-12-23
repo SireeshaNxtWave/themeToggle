@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.home-container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.img {
+  height: 200px;
+}
+.home-heading {
+  font-size: 30px;
+}
+.light-theme-color {
+  color: #1e293b;
+}
+.dark-theme-home-container {
+  background-color: #000000;
+}
+.dark-theme-color {
+  color: #dcdcdc;
+}

@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: roboto;
+}
+.img {
+  height: 300px;
+  width: 300px;
+}
+.dark-theme-background {
+  background-color: #000000;
+}
+.light-theme-background {
+  background-color: #ffffff;
+}
+.light-theme-heading {
+  font-size: 25px;
+  color: #334155;
+}
+.light-theme-para {
+  font-size: 18px;
+  color: #64748b;
+}
+.dark-theme-heading {
+  font-size: 25px;
+  color: #f8fafc;
+}
+.dark-theme-para {
+  font-size: 18px;
+  color: #f0fafc;
+}
